@@ -6,3 +6,5 @@ Quase todo circuito feito com linha condutível, com exceção do fio que conect
 Inspirado na arma de portais do Rick.
 
 <img src="luximetro-lillypad.jpeg" />
+<img src="luximetro_lilytiny85_bb.png" />
+
